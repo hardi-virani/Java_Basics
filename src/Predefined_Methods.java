@@ -10,7 +10,7 @@ public class Predefined_Methods
 
         while(power<=32)
         {
-            //here pow is the pre-defined method. And it will always be in double form not integer.
+            //here pow is the pre-defined method. And it will always be in double type form, not integer.
             double ans = Math.pow(2,power);
 
 //            System.out.println(ans);
