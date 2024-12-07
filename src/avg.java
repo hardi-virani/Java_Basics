@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //Syntax practice
+// 3 number avg
 public class avg
 {
     public static void main(String[]args)
