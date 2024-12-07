@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//this just for syntax practice.
 public class avg
 {
     public static void main(String[]args)
