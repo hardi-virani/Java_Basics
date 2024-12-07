@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //Syntax practice
+//Only average of 3
 public class avg
 {
     public static void main(String[]args)
