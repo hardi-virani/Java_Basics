@@ -30,5 +30,3 @@ I’ve recently started revisiting and practicing **Object-Oriented Programming 
 Feel free to explore, learn, and even practice on your own!  
 Wishing you all the best on your programming journey! 🎉  
 
-
-*Readme is not in gitignore, always edit it from where you are learning*
