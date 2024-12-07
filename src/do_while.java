@@ -1,7 +1,7 @@
 //QUESTION!!!💥
 //Write a program that uses a do-while loop to read integer values from the user until a value between 1 and 100 (inclusive) is entered.
 
-//always understand the question. Before this current commit, i made a mistake the only number between 1 to 100 are allowed, but then i realize that it says UNTIL..
+//always understand the question. Before this current commit, I made a mistake the only number between, 1 to 100 are allowed, but then I realize that it says UNTIL.
 // always read question perfectly.
 import java.util.Scanner;
 public class do_while
