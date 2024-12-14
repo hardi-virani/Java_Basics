@@ -9,7 +9,7 @@ public class Arrays_basic
         for (int i = 0; i < temperatures.length; i++)
         {
             temperatures[i] = 50;
-            System.out.println(i);
+            System.out.println(i+ " = " +temperatures[i]);
         }
     }
 }
