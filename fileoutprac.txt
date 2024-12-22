@@ -1,0 +1,2 @@
+Hello my fileoutprac!
+Value: 33.32
