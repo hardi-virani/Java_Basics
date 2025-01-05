@@ -13,10 +13,19 @@ public class Excercise_file_in
     {
         try(Scanner f = new Scanner(new File("integer.txt")))
         {
-            for(int i=0;i<5;i++)
+            for(int i=0;i<6;i++)
             {
-                int a = f.nextInt();
-                System.out.println(a);
+                //Handling the nosuchelement Exception. There can be more such as .hasNextDouble(), .hasNextLine() and so.. 
+                if(f.hasNextInt())
+                {
+                    int a = f.nextInt();
+                    System.out.println(a);
+                }
+                else
+                {
+                    System.out.println("There are no more integers");
+                    break;
+                }
             }
 
 
